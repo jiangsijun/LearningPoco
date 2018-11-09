@@ -1,0 +1,12 @@
+*.opendb
+*.vcxproj
+*.db
+*.exe
+*.suo
+*.log
+*.tlog
+TestPoco/TestPoco/Debug/
+TestPoco/TestPoco/x64/
+*.filters
+*.pdb
+*.ilk
